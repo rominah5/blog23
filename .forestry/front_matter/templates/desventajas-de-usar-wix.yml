@@ -35,3 +35,5 @@ fields:
 - type: image_gallery
   name: images
   label: images
+pages:
+- content/en/posts/productividad/desventajas-de-usar-wix.md
