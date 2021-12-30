@@ -4,7 +4,6 @@ comment = true
 date = 2021-12-30T05:00:00Z
 description = "Si has montado y piensas subir tu página a WIX, es sencillo ver lo fácil que puede ser diseñarlo y colocar todo lo que necesitas. "
 diagram = false
-draft = true
 featured = true
 images = ["/uploads/desventajas-de-wix.jpg"]
 related_posts = true
