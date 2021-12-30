@@ -17,15 +17,15 @@ toc = true
 
 Si has montado y piensas subir tu página a WIX (CMS similar a Wordpress), es sencillo ver lo fácil que puede ser diseñarlo y colocar todo lo que necesitas. Hoy vamos mencionar los principales problemas que puedes enfrentar si utilizas WIX, un análisis a su servicio
 
-1\. WIX GRATIS: Mucha publicidad
+**1. WIX GRATIS: Mucha publicidad**
 
 Si vas a montar una **página gratis** y al cliente le van a aparecer banners de tiendas mejor ubicadas y más reconocidas que la tuya, es mejor no optar por esto, los clientes desecharán tu página rápidamente.
 
-2\. Página que crece muy rápido, altos costes
+**2. Página que crece muy rápido, altos costes**
 
 Si tienes una página que crece muy rápido y además almacena muchos archivos. Cursos, talleres, videos largos y pesados. El plan VIP de 35GB
 
-3\. Costos altos
+**3. Costos altos**
 
 El plan VIP cuesta 25$, mientras que en otros hostings te ofrecen 100GB por 25$
 
