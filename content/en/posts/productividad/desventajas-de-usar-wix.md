@@ -1,7 +1,7 @@
 +++
 categories = ["cms"]
 comment = true
-date = ""
+date = 2021-12-30T05:00:00Z
 description = "Si has montado y piensas subir tu página a WIX (CMS similar a Wordpress), es sencillo ver lo fácil que puede ser diseñarlo y colocar todo lo que necesitas. "
 diagram = true
 draft = true
