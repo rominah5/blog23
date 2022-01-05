@@ -4,7 +4,6 @@ comment = false
 date = 2022-01-05T05:00:00Z
 description = "Clases de java, fundamento de programación, ofimáticas y más programas. Personalizada y con paciencia."
 diagram = false
-draft = true
 featured = false
 images = []
 related_posts = false
