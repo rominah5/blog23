@@ -9,8 +9,8 @@
   url = "/about/clases"
   # pre = '<i class="fab fa-fw fa-github"></i>'
 [[main]]
-  id = "soporte"
+  id = "paginas"
   parent = "servicios"
-  name = "Soporte"
-  url = "/about/soporte"
+  name = "Páginas web"
+  url = "/about/paginas"
   # pre = '<i class="fab fa-fw fa-github"></i>'

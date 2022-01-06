@@ -19,4 +19,4 @@ Se brinda soporte técnico informático ONLINE a través de Teamviewer. Problema
 
 * **telegram**: @rominah5
 
-*Costo: 30 soles por hora (primera consulta gratis)
+* **Costo**: 30 soles por hora (primera consulta gratis)
