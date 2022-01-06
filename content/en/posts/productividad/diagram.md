@@ -10,7 +10,7 @@ reward = true
 diagram = true
 related_posts = true
 categories = [
-  "CMS"
+  "productividad"
 ]
 images = [
   "https://1.bp.blogspot.com/-mRUz1HaiJAY/YOPEUcxMccI/AAAAAAAAAAg/cUEs_QnoHo86zZNbg3zHCqGdlsK36kBEQCPcBGAYYCw/s2048/Productividad-Bloqueo-de-sitios.jpg"

@@ -1,6 +1,6 @@
 +++
-title = "Creación de páginas web"
-description = "Creación de páginas web responsive y más."
+title = "Romina Hinostroza"
+description = "Conoce más sobre mí en la especialidad de tecnología"
 date = "2022-01-05"
 author = "Romina H."
 reward = false
@@ -8,16 +8,10 @@ postDate = false
 readingTime = false
 featured = false
 +++
-![paginas-web](http://dl.dropboxusercontent.com/s/dm1hj9vfextmcwh/banner-de-servicios-clases-online.jpg)
-
-Creación de páginas web estáticas con HTML, CSS y Javascript. Páginas responsive, adaptable y más
-
-Me encuentro en Lima, Perú.
+Soy estudiante de Ingeniería de Sistemas con interés en creación de software, en desarrollo web, en front-end. Me gusta trabajar con Java, Spring boot. Me gusta enseñar a otras personas a adentrarse en aprender las bases de programación. Me encuentro en Lima, Perú.
 
 **Horario**: Lunes a Sábado
 
 * [soluconsultas20@gmail.com](mailto:soluconsultas20@gmail.com)
 
 * **telegram**: @rominah5
-
-* **Costo**: A convenir

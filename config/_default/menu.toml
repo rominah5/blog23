@@ -6,11 +6,11 @@
   id = "clases"
   parent = "servicios"
   name = "Clases"
-  url = "/about/clases"
+  url = "/posts/clases"
   # pre = '<i class="fab fa-fw fa-github"></i>'
 [[main]]
   id = "paginas"
   parent = "servicios"
   name = "Páginas web"
-  url = "/about/paginas"
+  url = "/posts/paginas"
   # pre = '<i class="fab fa-fw fa-github"></i>'
