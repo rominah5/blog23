@@ -1,0 +1,41 @@
+---
+label: Desventajas de usar WIX
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: featured
+  label: featured
+- type: boolean
+  name: comment
+  label: comment
+- type: boolean
+  name: toc
+  label: toc
+- type: boolean
+  name: reward
+  label: reward
+- type: boolean
+  name: diagram
+  label: diagram
+- type: boolean
+  name: related_posts
+  label: related_posts
+- type: list
+  name: categories
+  label: categories
+- type: image_gallery
+  name: images
+  label: images
+pages:
+- content/clases-online-de-lenguaje-de-programacion.md
+- content/en/posts/cms/desventajas-de-usar-wix.md
+- content/soporte-tecnico-informatico.md
