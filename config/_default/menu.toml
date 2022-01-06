@@ -1,15 +1,16 @@
 [[main]]
-  name = "Dropdown"
-  identifier = "dropdown"
-  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
+  name = "Servicios"
+  identifier = "servicios"
+  # pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
 [[main]]
-  id = "github"
-  parent = "dropdown"
-  name = "Github"
-  url = "https://github.com/rominah7"
-  pre = '<i class="fab fa-fw fa-github"></i>'
+  id = "clases"
+  parent = "servicios"
+  name = "Clases"
+  url = "/about/clases"
+  # pre = '<i class="fab fa-fw fa-github"></i>'
 [[main]]
-#  id = "manual"
-#  parent = "dropdown"
-#  name = "Manual"
-  #url = "en/series/manual"
+  id = "soporte"
+  parent = "servicios"
+  name = "Soporte"
+  url = "/about/soporte"
+  # pre = '<i class="fab fa-fw fa-github"></i>'
