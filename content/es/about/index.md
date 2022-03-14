@@ -1,6 +1,6 @@
 +++
 title = "Romina Hinostroza"
-description = "Conoce más sobre mí en la especialidad de tecnología"
+description = "Aseorías para secundaria y para ingresantes de universidad"
 date = "2022-01-05"
 author = "Romina H."
 reward = false
@@ -8,10 +8,25 @@ postDate = false
 readingTime = false
 featured = false
 +++
-Soy estudiante de Ingeniería de Sistemas con interés en creación de software, en desarrollo web, en front-end. Me gusta trabajar con Java, Spring boot. Me gusta enseñar a otras personas a adentrarse en aprender las bases de programación. Me encuentro en Lima, Perú.
+**Realizo asesorías para secundaria y para ingresantes de universidad**.
 
-**Horario**: Lunes a Sábado
+Soy egresada de Ingeniería de Sistemas. Por mis tiempos libres me gusta realizar asesorías de matemática y fundamentos de la programación.
+El servicio es de **clases**, explicación del tema y solución de problemas (practico), colocando tu cámara en la hoja (en caso de matemática).
 
-* [soluconsultas20@gmail.com](mailto:soluconsultas20@gmail.com)
+Consultas adicionales antes de inscribirse al servicio: [soluconsultas20@gmail.com](mailto:soluconsultas20@gmail.com)
 
-* **telegram**: @rominah5
+### Secundaria
+![](http://dl.dropboxusercontent.com/s/2wgv61h76700f57/asesorias-secundaria.png)
+
+**ÁLGEBRA, RAZONAMIENTO MATEMÁTICO, ALGORITMOS, COMPUTACIÓN BÁSICA, EXCEL BÁSICO.**
+
+**Informes:** [aquí](https://forms.gle/PEEZFombrVE414MC8)
+### Universitarios (Primeros ciclos)
+![](https://dl.dropboxusercontent.com/s/dy3cvcih0x6akht/asesorias-universitarios-matematica.png)
+
+**FUNDAMENTOS PARA LA PROGRAMACIÓN, COMPUTACIÓN BÁSICA, EXCEL BÁSICO.**
+
+**Informes:** [aquí](https://forms.gle/bLAhF8itw2LEC2Ng7)
+
+
+

@@ -6,7 +6,7 @@ copyright = "Copyright © {year} Rominah5. Toda las reseñas de mi propiedad."
 # Multilingual mode
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false # If you use only one language comment this option
-#disableLanguages = ["fr", "zh-cn" ,"zh-tw"] # For disable one or more language
+disableLanguages = ["fr", "zh-cn" ,"zh-tw"] # For disable one or more language
 
 # Pagination
 paginate = 6
